@@ -1,4 +1,4 @@
-package com.lakshmidurga.groceryapp
+package com.divyansh.groceryapp
 
 import androidx.test.platform.app.InstrumentationRegistry
 import androidx.test.ext.junit.runners.AndroidJUnit4
